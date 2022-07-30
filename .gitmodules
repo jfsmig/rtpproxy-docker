@@ -1,0 +1,3 @@
+[submodule "rtpproxy"]
+	path = rtpproxy
+	url = git@github.com:jfsmig/rtpproxy.git
